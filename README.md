@@ -3,7 +3,9 @@
 🌱 Actualmente estoy estudiando **Henry (Full Stack Developer) y Cursando Ingeniería de Sistemas**
 
 </br>
-## About Me:
+<div>
+    <h1>About Me:</h1>
+</div>
 
 Soy estudiante de Ingeniería de sistemas computacionales, cursando el 4to Ciclo. 
 
@@ -11,8 +13,9 @@ Y busco insertar lo más rápido posible al mercado laboral como programador.
 
 </br>
 </br>
-## My Skills:
-
+<div>
+    <h1>My Skills:</h1>
+</div>
 <h4>
     Javascript, ReactJS, HTML, CSS, Git
 <h4>
@@ -29,9 +32,7 @@ Y busco insertar lo más rápido posible al mercado laboral como programador.
 
 - 👋 Hi, I’m @Williams392
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...a
+- 🌱 I’m currently learning Javascript
 
 <!---
 Williams392/Williams392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
