@@ -12,7 +12,6 @@ Soy estudiante de Ingeniería de sistemas computacionales, cursando el 4to Ciclo
 Y busco insertar lo más rápido posible al mercado laboral como programador.
 
 </br>
-</br>
 <div>
     <h1>My Skills:</h1>
 </div>
