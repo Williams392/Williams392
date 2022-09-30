@@ -3,9 +3,7 @@
 🌱 Actualmente estoy estudiando **Henry (Full Stack Developer) y Cursando Ingeniería de Sistemas**
 
 </br>
-<div>
-    <h1>Sobre mi:</h1>
-</div>
+## About Me:
 
 Soy estudiante de Ingeniería de sistemas computacionales, cursando el 4to Ciclo. 
 
@@ -13,9 +11,7 @@ Y busco insertar lo más rápido posible al mercado laboral como programador.
 
 </br>
 </br>
-<div>
-    <h1>Skills:</h1>
-</div>
+## My Skills:
 
 <h4>
     Javascript, ReactJS, HTML, CSS, Git
