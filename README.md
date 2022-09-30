@@ -1,6 +1,6 @@
 <h1 align="center">Hola!! 👋, soy Williams Valle Dextre </h1>
 
-🌱 Actualmente estoy estudiando **Henry (Full Stack Developer) y Cursando Ingeniería de Sistemas**
+- 🌱 Actualmente estoy estudiando **Henry (Full Stack Developer) y Cursando Ingeniería de Sistemas**
 
 </br>
 <div>
