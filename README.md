@@ -32,7 +32,6 @@ Y busco insertar lo más rápido posible al mercado laboral como programador.
 
 
 - 👋 Hi, I’m @Williams392
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Javascript
 
 <!---
