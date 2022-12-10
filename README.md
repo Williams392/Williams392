@@ -1,8 +1,13 @@
 <h1 align="center">Hola!! 👋, soy Williams Valle Dextre </h1>
 
+- 🌱 Actualmente estoy Cursando Ingeniería de Sistemas y Full Stack Developer
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🌱 Actualmente estoy Cursando Ingeniería de Sistemas y Full Stack Developer
+<p>
+Soy estudiante de Ingeniería de sistemas computacionales, cursando el 4to Ciclo.
+Y busco insertar lo más rápido posible al mercado laboral como programador.
+</p>
 
 <div>
     <h1>My Skills:</h1>
