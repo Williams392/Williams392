@@ -1,6 +1,6 @@
 <h1 align="center">Hola!! 👋, soy Williams Valle Dextre </h1>
 <p>
-- 🌱 - estoy Cursando Ingeniería de Sistemas y Full Stack Developer
+- 🌱 Estoy Cursando Ingeniería de Sistemas y Full Stack Developer
 </p>
     
 <br>
