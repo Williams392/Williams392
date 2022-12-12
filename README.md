@@ -11,10 +11,10 @@
 
 <br>
 
-- Soy estudiante de Ingeniería de sistemas computacionales, cursando el 4to Ciclo.
-- Desarrollador Web FRONT-END.
+- Soy estudiante de Ingeniería de sistemas computacionales, cursando el 4to Ciclo
+- Desarrollador Web FRONT-END
 - Desarrollador de aplicaciones .NET C# - Visual Studio - Microsoft
-- Busco insertar lo más rápido posible al mercado laboral como programador.
+- Busco insertar lo más rápido posible al mercado laboral como programador
 
 <br><br> 
 
