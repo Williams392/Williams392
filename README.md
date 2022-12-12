@@ -1,6 +1,6 @@
 <h1 align="center">Hola!! 👋, soy Williams Valle Dextre </h1>
 <p>
-- 🌱 Estoy Cursando Ingeniería de Sistemas y Full Stack Developer
+- 🌱 Estoy Cursando Ingeniería de Sistemas y Formándome como desarrollador Front-end y Back-end.
 </p>
     
 <br>
@@ -12,7 +12,7 @@
 <br>
 
 - Soy estudiante de Ingeniería de sistemas computacionales, cursando el 4to Ciclo.
-- Desarrollador FRONT- END.
+- Desarrollador Web FRONT-END.
 - Desarrollador de aplicaciones .NET C# - Visual Studio - Microsoft
 - Busco insertar lo más rápido posible al mercado laboral como programador.
 
