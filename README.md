@@ -1,6 +1,6 @@
 <h1 align="center">Hola!! 👋, soy Williams Valle Dextre </h1>
 <p>
-- 🌱 Estoy Cursando INGENIERÍA DE SISTEMAS COMPUTACIONALES y Formándome como desarrollador Front-end y Back-end.
+- 🌱 Estoy Cursando Ingeniería  de Sistemas Computacionales y Formándome como desarrollador Front-end y Back-end.
 </p>
     
 <br>
