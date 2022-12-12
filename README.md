@@ -13,6 +13,7 @@
 
 - Soy estudiante de Ingeniería de sistemas computacionales, cursando el 4to Ciclo.
 - Desarrollador FRONT- END.
+- Desarrollador de aplicaciones .NETt C# - Visual Studio - Microsoft
 - Busco insertar lo más rápido posible al mercado laboral como programador.
 
 <br><br> 
