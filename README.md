@@ -15,7 +15,7 @@
 - Desarrollador Web FRONT-END
 - Desarrollador de aplicaciones .NET C# - Visual Studio - Microsoft
 - Busco insertar lo más rápido posible al mercado laboral como programador
-- - Personal website [link](https:---)
+- Sitio web personal [link](https:---)
 
 <br><br> 
 
