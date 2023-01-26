@@ -13,7 +13,7 @@
 
 - Soy estudiante de Ingeniería de sistemas computacionales, cursando el 5to Ciclo.
 - Desarrollador Web FRONT-END autónomo.
-- Desarrollador de aplicaciones .NET C# - Visual Studio - Microsoft.
+- Desarrollador .NET C# - Visual Studio - Microsoft.
 - Busco insertar lo más rápido posible al mercado laboral como Programador.
 - Sitio web personal [link](https://williams392.github.io)
 
