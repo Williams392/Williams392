@@ -37,6 +37,7 @@
   <a href="https://visualstudio.microsoft.com/es/vs/features/cplusplus/"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" height="42" width="42" ></a>
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/"><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="42" width="42" ></a>
 </div>
+    
 </br>
 
 
