@@ -40,8 +40,8 @@
 </br>
 
 
-- 👋 Hi, I’m @Williams392
-- 🌱 I’m currently learning Javascript
+- 👋 Hola, soy @Williams392
+- 🌱 Actualmente estoy aprendiendo Java y Python
 
 <!---
 Williams392/Williams392 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
