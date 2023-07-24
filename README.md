@@ -11,7 +11,7 @@
 
 <br>
 
-- Soy estudiante de Ingeniería de sistemas computacionales, cursando el 5to Ciclo.
+- Soy estudiante de Ingeniería de sistemas computacionales, cursando el 6to Ciclo.
 - Desarrollador Backend Python (Django).
 - Desarrollador Java Form  -  MySql
 - Desarrollador .NET C# - Visual Studio - Microsoft.
