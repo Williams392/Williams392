@@ -13,8 +13,8 @@
 
 - Soy estudiante de Ingeniería de sistemas computacionales, cursando el 5to Ciclo.
 - Desarrollador Backend Python (Django).
-- Desarrollador Java Form  -  MySql
-- Desarrollador .NET C# - Visual Studio - Microsoft SQL server.
+- Desarrollador Java Form  -  MySql.
+- Desarrollador .NET C# - Visual Studio - SQL server.
 - Busco insertar lo más rápido posible al mercado laboral como Desarrollador.
 - Sitio web personal [link](https://williams392.github.io/cv_williams392/)
 
